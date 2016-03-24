@@ -1,0 +1,10 @@
+Ingredients:
+- CHO
+- MEDIA
+- BASE
+- OPERATORS
+
+Directions:
+  1. In a medium bioreactor, add cho, media
+  2. Stir in base as necessary
+  3. Grind operators for taste
